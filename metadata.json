@@ -1,0 +1,8 @@
+{
+  "name": "Arquivo Técnico Inteligente",
+  "description": "Technical assistant for Ziemann Liess Pasteurizer TP II 50/244-13. Features AI chat with manual context, web search grounding, and visual part identification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
